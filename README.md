@@ -36,4 +36,56 @@ A user-friendly design in a booking system is crucial as it:
 - Builds trust and encourages repeat usage by providing a smooth, hassle-free process.
 - Reduces errors and drop-offs during the booking process, increasing conversions.
 - Ensures accessibility for users with varying technical skills and devices, maximizing reach and usability.
+## Color Styles
+- **White:** #FFFFFF
+- **Primary Background:** #161117
+- **Accent Color:** #34967C
+- **Highlight Color:** #FFA800
+
+## Typography
+- **Font Family:** Qucisand
+- **Font Weights:** 500 (medium), 700 (bold)
+- **Font Sizes:** 
+  - Headings: 18px
+  - Body Text: 16px
+  - Small Text: 11px
+## Importance of Identifying Design Properties in a Mockup Design
+
+Identifying the design properties of a mockup design is crucial for several reasons:
+
+### 1. Establishing Consistency
+- Design properties such as color schemes, typography, spacing, and layout ensure that the final product maintains a cohesive look and feel.
+- Consistency builds brand identity and trust, creating a unified experience across all pages and components.
+
+### 2. Communicating Ideas Effectively
+- Mockups serve as visual guides to communicate the design intent clearly to stakeholders, clients, and developers.
+- Identifying properties ensures all parties understand the desired look, structure, and behavior of the application.
+
+### 3. Facilitating Collaboration
+- Defined properties make it easier for team members (e.g., designers and developers) to work together without confusion.
+- For instance, specifying font sizes, colors, and button styles ensures that the design vision translates accurately into code.
+
+### 4. Improving Development Workflow
+- Design properties act as a blueprint for developers, providing exact specifications (e.g., padding, margins, hex codes for colors, font families, etc.).
+- This reduces guesswork and ensures that the development phase aligns with the design.
+
+### 5. Enhancing User Experience (UX)
+- Identifying and adhering to design properties helps create a user-friendly interface.
+- Properties like button sizes, contrast ratios, and typography play a significant role in accessibility and readability, ensuring the design meets the needs of diverse users.
+
+### 6. Supporting Scalability
+- When design properties are documented, it becomes easier to extend the project or introduce new features without breaking the design system.
+- For example, adding a new page or component can seamlessly integrate into the existing framework if design properties are consistent and well-documented.
+
+### 7. Preventing Design Debt
+- Without a clear understanding of design properties, inconsistencies may arise over time, leading to "design debt."
+- Identifying these properties early ensures a polished and professional design throughout the project’s lifecycle.
+
+### 8. Improving Presentation for Feedback
+- A well-identified mockup allows stakeholders to provide more focused and constructive feedback.
+- Clear design properties make it easier to pinpoint areas that need improvement or adjustment.
+
+---
+
+
 
