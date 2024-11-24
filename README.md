@@ -171,4 +171,40 @@ Identifying the design properties of a mockup design is crucial for several reas
 - Remove blockers and ensure the team adheres to Agile principles.
 - Track progress and ensure the team works efficiently during each sprint
 
+# UI Component Patterns
+
+## Navbar
+**Description:**  
+- A responsive navigation bar that provides access to key sections of the application.  
+- Includes branding (e.g., logo), links to pages (e.g., Home, Listings, About), and user actions (e.g., Sign In, Register).  
+
+**Features:**  
+- Dropdown menus for additional options.  
+- Search functionality integrated into the Navbar for quick access.  
+- Mobile-friendly hamburger menu for small screens.  
+
+---
+
+## Property Card
+**Description:**  
+- A reusable component to display key details of a property in a listing view.  
+- Includes an image, property name, price, location, and a brief description.  
+
+**Features:**  
+- "View Details" button to navigate to the detailed property page.  
+- Hover effects to highlight the card.  
+- Option to favorite or save the property.  
+
+---
+
+## Footer
+**Description:**  
+- A fixed section at the bottom of the page with helpful links and contact information.  
+
+**Features:**  
+- Links to pages like About Us, Contact, Terms of Service, and Privacy Policy.  
+- Social media icons for external links.  
+- Designed to remain consistent and visually minimal.  
+
+---
 
