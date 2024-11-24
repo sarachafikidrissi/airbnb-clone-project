@@ -86,6 +86,89 @@ Identifying the design properties of a mockup design is crucial for several reas
 - Clear design properties make it easier to pinpoint areas that need improvement or adjustment.
 
 ---
+# Project Roles and Responsibilities
 
+## 1. Project Manager
+**Key Responsibilities:**
+- Plan and oversee the project timeline, scope, and budget.
+- Coordinate between teams and ensure that milestones are met.
+- Address challenges and risks, ensuring the project stays on track.
+
+**Contribution to Success:**
+- Provides clear direction and organization, ensuring the team works efficiently toward project goals.
+
+---
+
+## 2. Frontend Developers
+**Key Responsibilities:**
+- Develop and implement the user interface (UI) based on design mockups.
+- Ensure responsiveness, accessibility, and cross-browser compatibility.
+- Optimize performance for client-side operations.
+
+**Contribution to Success:**
+- Creates a visually appealing and interactive experience for users, ensuring the platform is easy to navigate.
+
+---
+
+## 3. Backend Developers
+**Key Responsibilities:**
+- Develop server-side logic and manage databases.
+- Implement APIs and integrate them with the frontend.
+- Ensure the security and scalability of the application.
+
+**Contribution to Success:**
+- Provides the foundation for data processing and ensures seamless communication between the frontend and backend.
+
+---
+
+## 4. Designers
+**Key Responsibilities:**
+- Create mockups, wireframes, and prototypes that define the visual and user experience.
+- Define branding elements such as color schemes, typography, and layouts.
+- Ensure designs meet accessibility and usability standards.
+
+**Contribution to Success:**
+- Establishes the visual identity and ensures the application is aesthetically pleasing and user-centric.
+
+---
+
+## 5. QA/Testers
+**Key Responsibilities:**
+- Test the application for functionality, performance, and security issues.
+- Identify bugs and inconsistencies, and ensure fixes are implemented.
+- Perform regression testing and validate updates.
+
+**Contribution to Success:**
+- Ensures the product is reliable and free of critical issues before deployment, enhancing user satisfaction.
+
+---
+
+## 6. DevOps Engineers
+**Key Responsibilities:**
+- Set up and maintain the CI/CD pipeline for continuous integration and delivery.
+- Manage infrastructure, servers, and deployment processes.
+- Monitor application performance and scalability in production.
+
+**Contribution to Success:**
+- Facilitates smooth deployments and ensures the system remains stable under different loads.
+
+---
+
+## 7. Product Owner
+**Key Responsibilities:**
+- Define the product vision, features, and priorities.
+- Maintain and refine the product backlog to align with business goals.
+- Act as the liaison between stakeholders and the development team.
+
+**Contribution to Success:**
+- Ensures the team delivers features that align with user needs and business objectives.
+
+---
+
+## 8. Scrum Master
+**Key Responsibilities:**
+- Facilitate Agile ceremonies such as stand-ups, sprint planning, and retrospectives.
+- Remove blockers and ensure the team adheres to Agile principles.
+- Track progress and ensure the team works efficiently during each sprint
 
 
